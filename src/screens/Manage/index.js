@@ -50,7 +50,7 @@ const ManageScreen = props => {
     ]);
   };
 
-  const renderItem = ({item, index}) => {
+  const renderItem = ({item}) => {
     return (
       <SafeAreaView style={{flex: 1}}>
         <View key={item.id} style={{justifyContent: 'center'}}>
