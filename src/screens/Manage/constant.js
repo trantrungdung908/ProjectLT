@@ -1,0 +1,19 @@
+// getData vs Delete
+
+export const GET_DATA_REQUEST = 'GET_DATA_REQUEST';
+export const GET_DATA_SUCCESS = 'GET_DATA_SUCCESS';
+export const GET_DATA_FAIL = 'GET_DATA_FAIL';
+
+export const DELETE_REQUEST = 'DELETE_REQUEST';
+export const DELETE_SUCCESS = 'DELETE_SUCCESS';
+export const DELETE_FAIL = 'DELETE_FAIL';
+
+export const PUT_DATA_REQUEST = 'PUT_DATA_REQUEST';
+export const PUT_DATA_SUCCESS = 'PUT_DATA_SUCCESS';
+export const PUT_DATA_FAIL = 'PUT_DATA_FAIL';
+
+export const REMOVE_DATA = 'REMOVE_DATA';
+
+export const POST_DATA_REQUEST = 'POST_DATA_REQUEST';
+export const POST_DATA_SUCCESS = 'POST_DATA_SUCCESS';
+export const POST_DATA_FAIL = 'POST_DATA_FAIL';
